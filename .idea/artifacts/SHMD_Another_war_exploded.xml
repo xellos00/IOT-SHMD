@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SHMD_Another:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SHMD_Another_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SHMD_Another/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SHMD_Another" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
